@@ -37,11 +37,11 @@
 
 .home-page-circle-2{
     position: absolute;
-    width: 15vw;
-    height:15vw;
+    width: 20vw;
+    height:20vw;
     border-radius: 50%;
     background-color: rgba(188, 58, 128, 0.1) ;
-    top: 8vw;
+    top: 15vw;
     left: 30vw;
     z-index:-1;
 }
